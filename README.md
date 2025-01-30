@@ -1,1 +1,1 @@
-# ShamelaBook
+# ShamelaBook Metadata
