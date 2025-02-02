@@ -1,242 +1,242 @@
 [
- {
-  "id": 1,
-  "name": "العقيدة",
-  "translation": "Aqida",
-  "books": 801,
- },
- {
-  "id": 2,
-  "name": "الفرق والردود",
-  "translation": "Farq va javoblar",
-  "books": 151,
- },
- {
-  "id": 3,
-  "name": "التفسير",
-  "translation": "Tafsir",
-  "books": 270,
- },
- {
-  "id": 4,
-  "name": "علوم القرآن وأصول التفسير",
-  "translation": "Quron ilmlari va tafsir asoslari",
-  "books": 308,
- },
- {
-  "id": 5,
-  "name": "التجويد والقراءات",
-  "translation": "Tajvid va qiroatlar",
-  "books": 148,
- },
- {
-  "id": 6,
-  "name": "كتب السنة",
-  "translation": "Sunna Kitoblar",
-  "books": 1229,
- },
- {
-  "id": 7,
-  "name": "شروح الحديث",
-  "translation": "Hadislar sharxi",
-  "books": 264,
- },
- {
-  "id": 8,
-  "name": "التخريج والأطراف",
-  "translation": "Tahrij va tarif",
-  "books": 128,
- },
- {
-  "id": 9,
-  "name": "العلل والسؤلات الحديثية",
-  "translation": "Hadis ilmlari va savollar",
-  "books": 75,
- },
- {
-  "id": 10,
-  "name": "علوم الحديث",
-  "translation": "Hadis ilmlari",
-  "books": 318,
- },
- {
-  "id": 11,
-  "name": "أصول الفقه",
-  "translation": "Fiqh asoslari",
-  "books": 248,
- },
- {
-  "id": 12,
-  "name": "علوم الفقه والقواعد الفقهية",
-  "translation": "Fiqh ilmlari va fiqhiy qoidalar",
-  "books": 55,
- },
- {
-  "id": 13,
-  "name": "المنطق",
-  "translation": "Mantiq",
-  "books": 11,
- },
- {
-  "id": 14,
-  "name": "الفقه الحنفي",
-  "translation": "Hanafiy fiqhi",
-  "books": 84,
- },
- {
-  "id": 15,
-  "name": "الفقه المالكي",
-  "translation": "Molikiy fiqhi",
-  "books": 86,
- },
- {
-  "id": 16,
-  "name": "الفقه الشافعي",
-  "translation": "Shofi'iy fiqhi",
-  "books": 86,
- },
- {
-  "id": 17,
-  "name": "الفقه الحنبلي",
-  "translation": "Hanbaliy fiqhi",
-  "books": 148,
- },
- {
-  "id": 18,
-  "name": "الفقه العام",
-  "translation": "Umumiy fiqh",
-  "books": 204,
- },
- {
-  "id": 19,
-  "name": "مسائل فقهية",
-  "translation": "Fiqhiy masalalar",
-  "books": 421,
- },
- {
-  "id": 20,
-  "name": "السياسة الشرعية والقضاء",
-  "translation": "Shar'iy siyosat va sud",
-  "books": 100,
- },
- {
-  "id": 21,
-  "name": "الفرائض والوصايا",
-  "translation": "Faroiz va vasiyatlar",
-  "books": 28,
- },
- {
-  "id": 22,
-  "name": "الفتاوى",
-  "translation": "Fatvolar",
-  "books": 64,
- },
- {
-  "id": 23,
-  "name": "الرقائق والآداب والأذكار",
-  "translation": "Raqoiq, odoblar va zikrlar",
-  "books": 620,
- },
- {
-  "id": 24,
-  "name": "السيرة النبوية",
-  "translation": "Payg'ambarlar siyrati",
-  "books": 184,
- },
- {
-  "id": 25,
-  "name": "التاريخ",
-  "translation": "Tarix",
-  "books": 196,
- },
- {
-  "id": 26,
-  "name": "التراجم والطبقات",
-  "translation": "Tarjima va tabaqotlar",
-  "books": 561,
- },
- {
-  "id": 27,
-  "name": "الأنساب",
-  "translation": "Nasablar",
-  "books": 52,
- },
- {
-  "id": 28,
-  "name": "البلدان والرحلات",
-  "translation": "Shaxarlar va safarlar",
-  "books": 93,
- },
- {
-  "id": 29,
-  "name": "كتب اللغة",
-  "translation": "Til kitoblari",
-  "books": 79,
- },
- {
-  "id": 30,
-  "name": "الغريب والمعاجم",
-  "translation": "G'arib lug'atlar",
-  "books": 132,
- },
- {
-  "id": 31,
-  "name": "النحو والصرف",
-  "translation": "Nahv va sarf",
-  "books": 213,
- },
- {
-  "id": 32,
-  "name": "الأدب",
-  "translation": "Odob",
-  "books": 406,
- },
- {
-  "id": 33,
-  "name": "العروض والقوافي",
-  "translation": "Aruz va qafiyalar",
-  "books": 9,
- },
- {
-  "id": 34,
-  "name": "الشعر ودواوينه",
-  "translation": "Sher va devonlar",
-  "books": 25,
- },
- {
-  "id": 35,
-  "name": "البلاغة",
-  "translation": "Balag'ot",
-  "books": 44,
- },
- {
-  "id": 36,
-  "name": "الجوامع",
-  "translation": "Javomiklar",
-  "books": 136,
- },
- {
-  "id": 37,
-  "name": "فهارس الكتب والأدلة",
-  "translation": "",
-  "books": 100,
- },
- {
-  "id": 38,
-  "name": "الطب",
-  "translation": "Tibbiyot",
-  "books": 14,
- },
- {
-  "id": 39,
-  "name": "كتب عامة",
-  "translation": "Umumiy kitoblar",
-  "books": 355,
- },
- {
-  "id": 40,
-  "name": "علوم أخرى",
-  "translation": "Boshqa ilmlar",
-  "books": 26,
- }
+  {
+    "id": 1,
+    "name": "العقيدة",
+    "translation": "Aqida",
+    "books": 801
+  },
+  {
+    "id": 2,
+    "name": "الفرق والردود",
+    "translation": "Farq va javoblar",
+    "books": 151
+  },
+  {
+    "id": 3,
+    "name": "التفسير",
+    "translation": "Tafsir",
+    "books": 270
+  },
+  {
+    "id": 4,
+    "name": "علوم القرآن وأصول التفسير",
+    "translation": "Quron ilmlari va tafsir asoslari",
+    "books": 308
+  },
+  {
+    "id": 5,
+    "name": "التجويد والقراءات",
+    "translation": "Tajvid va qiroatlar",
+    "books": 148
+  },
+  {
+    "id": 6,
+    "name": "كتب السنة",
+    "translation": "Sunna Kitoblar",
+    "books": 1229
+  },
+  {
+    "id": 7,
+    "name": "شروح الحديث",
+    "translation": "Hadislar sharxi",
+    "books": 264
+  },
+  {
+    "id": 8,
+    "name": "التخريج والأطراف",
+    "translation": "Tahrij va tarif",
+    "books": 128
+  },
+  {
+    "id": 9,
+    "name": "العلل والسؤلات الحديثية",
+    "translation": "Hadis ilmlari va savollar",
+    "books": 75
+  },
+  {
+    "id": 10,
+    "name": "علوم الحديث",
+    "translation": "Hadis ilmlari",
+    "books": 318
+  },
+  {
+    "id": 11,
+    "name": "أصول الفقه",
+    "translation": "Fiqh asoslari",
+    "books": 248
+  },
+  {
+    "id": 12,
+    "name": "علوم الفقه والقواعد الفقهية",
+    "translation": "Fiqh ilmlari va fiqhiy qoidalar",
+    "books": 55
+  },
+  {
+    "id": 13,
+    "name": "المنطق",
+    "translation": "Mantiq",
+    "books": 11
+  },
+  {
+    "id": 14,
+    "name": "الفقه الحنفي",
+    "translation": "Hanafiy fiqhi",
+    "books": 84
+  },
+  {
+    "id": 15,
+    "name": "الفقه المالكي",
+    "translation": "Molikiy fiqhi",
+    "books": 86
+  },
+  {
+    "id": 16,
+    "name": "الفقه الشافعي",
+    "translation": "Shofi'iy fiqhi",
+    "books": 86
+  },
+  {
+    "id": 17,
+    "name": "الفقه الحنبلي",
+    "translation": "Hanbaliy fiqhi",
+    "books": 148
+  },
+  {
+    "id": 18,
+    "name": "الفقه العام",
+    "translation": "Umumiy fiqh",
+    "books": 204
+  },
+  {
+    "id": 19,
+    "name": "مسائل فقهية",
+    "translation": "Fiqhiy masalalar",
+    "books": 421
+  },
+  {
+    "id": 20,
+    "name": "السياسة الشرعية والقضاء",
+    "translation": "Shar'iy siyosat va sud",
+    "books": 100
+  },
+  {
+    "id": 21,
+    "name": "الفرائض والوصايا",
+    "translation": "Faroiz va vasiyatlar",
+    "books": 28
+  },
+  {
+    "id": 22,
+    "name": "الفتاوى",
+    "translation": "Fatvolar",
+    "books": 64
+  },
+  {
+    "id": 23,
+    "name": "الرقائق والآداب والأذكار",
+    "translation": "Raqoiq, odoblar va zikrlar",
+    "books": 620
+  },
+  {
+    "id": 24,
+    "name": "السيرة النبوية",
+    "translation": "Payg'ambarlar siyrati",
+    "books": 184
+  },
+  {
+    "id": 25,
+    "name": "التاريخ",
+    "translation": "Tarix",
+    "books": 196
+  },
+  {
+    "id": 26,
+    "name": "التراجم والطبقات",
+    "translation": "Tarjima va tabaqotlar",
+    "books": 561
+  },
+  {
+    "id": 27,
+    "name": "الأنساب",
+    "translation": "Nasablar",
+    "books": 52
+  },
+  {
+    "id": 28,
+    "name": "البلدان والرحلات",
+    "translation": "Shaxarlar va safarlar",
+    "books": 93
+  },
+  {
+    "id": 29,
+    "name": "كتب اللغة",
+    "translation": "Til kitoblari",
+    "books": 79
+  },
+  {
+    "id": 30,
+    "name": "الغريب والمعاجم",
+    "translation": "G'arib lug'atlar",
+    "books": 132
+  },
+  {
+    "id": 31,
+    "name": "النحو والصرف",
+    "translation": "Nahv va sarf",
+    "books": 213
+  },
+  {
+    "id": 32,
+    "name": "الأدب",
+    "translation": "Odob",
+    "books": 406
+  },
+  {
+    "id": 33,
+    "name": "العروض والقوافي",
+    "translation": "Aruz va qafiyalar",
+    "books": 9
+  },
+  {
+    "id": 34,
+    "name": "الشعر ودواوينه",
+    "translation": "Sher va devonlar",
+    "books": 25
+  },
+  {
+    "id": 35,
+    "name": "البلاغة",
+    "translation": "Balag'ot",
+    "books": 44
+  },
+  {
+    "id": 36,
+    "name": "الجوامع",
+    "translation": "Javomiklar",
+    "books": 136
+  },
+  {
+    "id": 37,
+    "name": "فهارس الكتب والأدلة",
+    "translation": "",
+    "books": 100
+  },
+  {
+    "id": 38,
+    "name": "الطب",
+    "translation": "Tibbiyot",
+    "books": 14
+  },
+  {
+    "id": 39,
+    "name": "كتب عامة",
+    "translation": "Umumiy kitoblar",
+    "books": 355
+  },
+  {
+    "id": 40,
+    "name": "علوم أخرى",
+    "translation": "Boshqa ilmlar",
+    "books": 26
+  }
 ]
